@@ -2,7 +2,6 @@ package com.example.demo.entity;
 
 import java.io.Serializable;
 
-@SuppressWarnings("serial")
 public class MealId implements Serializable{
 	
 	private String name ;

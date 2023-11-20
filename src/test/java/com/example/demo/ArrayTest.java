@@ -103,7 +103,15 @@ public class ArrayTest {
 		List<Integer>intList = new ArrayList<>();
 		List<String>strList = new ArrayList<>();
 	}
-	
+
+	@Test
+	public void listTest2() {
+		int[] a = new int[3];
+		Integer[] b = new Integer[3];
+		String[] c = new String[3];
+		List<Integer>intList = new ArrayList<>();
+		List<String>strList = new ArrayList<>();
+	}
 
 
 }
